@@ -1,0 +1,518 @@
+#container{
+    width: 1800px;
+    background-color: rgb(115, 191, 221);
+    padding-top: 50px;
+    border: solid rgb(221, 201, 201);
+}
+#topic{
+width: 1600px;
+background-color:rgb(37, 58, 58);
+height: 900px;
+}
+#top{
+     width: 1600px;
+     background-color: rgb(63, 95, 95);
+     display: flex;
+     gap: 5%;
+     height: 50px;
+     font-size: large;
+     -webkit-text-fill-color: aliceblue;
+}
+#pic{
+    width: 50px;
+    height: 30px;
+}
+#home{
+    text-decoration: underline;
+    -webkit-text-fill-color: aliceblue;
+    font-size: larger;
+}
+#button{
+    background-color: rgb(48, 48, 100);
+    width: 130px;
+    height: 50px;
+}
+#private{
+    width: 100px;
+    height: 100px;
+}
+#ful{
+    -webkit-text-fill-color: rgb(209, 152, 45);
+}
+#button1{
+    background-color: rgb(62, 142, 173);
+    height: 40px;
+    width: 100px;
+}
+#button2{
+    background-color: transparent;
+    width: 100px;
+    height: 40px;
+}
+#words{
+    display: flex;
+}
+#button3{
+    display: flex;
+    gap: 10%;
+}
+#power{
+    font-size:x-large;
+}
+#image{
+    width: 300px;
+    height: 300px;
+    border-radius: 200px;
+}
+#image1{
+    width: 400px;
+    height: 600px;
+}
+#page{
+    display: flex;
+    gap: 5%;
+}
+#im{
+    display: flex;
+}
+#ad{
+font-size: larger;
+text-align: center;
+display: flex;
+gap: 5%;
+}
+#van{
+    -webkit-text-fill-color: rgb(224, 165, 54);
+}
+#button4{
+    background-color: transparent;
+    -webkit-text-fill-color: rgb(55, 134, 165);
+    width: 100px;
+}
+#all{
+    background-color: aliceblue;
+}
+#ad{
+    display: flex;
+    gap: 5%;
+    text-align: center;
+    margin: 100px;
+}
+#badge{
+    width:100px;
+    height: 100px;
+}
+#tick{
+    -webkit-text-fill-color: rgb(212, 156, 50);
+}
+#ball{
+    width: 30px;
+    height: 30px;
+}
+#expert{
+    display: flex;
+    gap: 5%;
+    margin: 100px;
+}
+#button5{
+    background-color: rgb(57, 57, 170);
+    width: 150px;
+    height:50px;
+    font-size: larger;
+    -webkit-text-fill-color: aliceblue;
+}
+#tag{
+    text-align: center;
+    margin: 100px;
+}
+#people{
+    width: 350px;
+    height: 700px;
+}
+#bold{
+    display: flex;
+}
+#flex{
+    display: flex;
+}
+#coll{
+    display: flex;
+}
+#syn{
+    display: flex;
+}
+#rem{
+    display: flex;
+}
+#less{
+-webkit-text-fill-color: rgb(207, 154, 56);
+}
+#search{
+    -webkit-text-fill-color: rgb(61, 77, 77);
+}
+#explore{
+    background-color: rgb(216, 158, 49);
+    -webkit-text-fill-color: black;
+    width: 250px;
+    height: 50px;
+}
+#lap{
+    width: 1000px;
+    height: 500px;
+}
+#seam{
+    width:1600px;
+    height:800px;
+    background-color: rgb(45, 173, 173);
+}
+#less{
+    font-size: larger;
+    text-align: center;
+}
+#high{
+    -webkit-text-fill-color: rgb(206, 149, 44);
+}
+#view{
+    height: 50px;
+    width: 250px;
+    font-size: larger;
+    background-color: rgb(66, 66, 201);
+}
+#log{
+    display:flex ;
+    gap: 60%;
+}
+#button6{
+    width: 100px;
+    height:50px;
+    background-color: transparent;
+    border: blue;
+}
+#tion{
+    -webkit-text-fill-color: skyblue;
+}
+#gen{
+     -webkit-text-fill-color: rgb(211, 156, 55);
+}
+#form{
+      -webkit-text-fill-color: rgb(51, 92, 92);
+}
+#our{
+    width: 300px;
+    height: 300px;
+}
+#job{
+     width:200px;
+     height:50px;
+     background-color: skyblue;
+}
+#wan{
+    width: 1200px;
+    height:500px;
+    display: flex;
+    margin: 100px;
+    background-color: rgb(21, 53, 53);
+    gap:10%;
+    border-radius: 50px;
+}
+#info{
+    display: flex;
+    gap:10%;
+    margin: 100px;
+    border-radius: 50px;
+}
+#ile{
+    width: 300px;
+    height: 300px;
+}
+#email{
+    font-size: smaller;
+    -webkit-text-fill-color: aliceblue;
+    background-color: transparent;
+}
+#footer{
+    background-color: rgb(65, 173, 216);
+    width: 1400px;
+    height:300px;
+    display: flex;
+    gap:10%;
+    margin: 100px;
+}
+#lady{
+    width: 300px;
+    height: 300px;
+}
+#body{
+    width: 1600px;
+    background-color: aliceblue;
+    margin: 100px;
+}
+@media all and (min-width:350px) and (max-width: 1050px){
+    #container{
+        width: 350px;
+        background-color: rgb(115, 191, 221);
+        padding-top: 5px;
+        border: solid rgb(221, 201, 201);
+    }
+    #topic{
+    width: 400px;
+    background-color:rgb(37, 58, 58);
+    height: 300px;
+    }
+    #top{
+         width: 400px;
+         background-color: rgb(63, 95, 95);
+         display: flex;
+         flex-wrap: wrap;
+         gap: 5%;
+         height: 5px;
+         font-size: smaller;
+         -webkit-text-fill-color: aliceblue;
+    }
+    #pic{
+        width: 5px;
+        height: 3px;
+    }
+    #home{
+        text-decoration: underline;
+        -webkit-text-fill-color: aliceblue;
+        font-size: smaller;
+    }
+    #button{
+        background-color: rgb(48, 48, 100);
+        width: 13px;
+        height: 5px;
+    }
+    #private{
+        width: 10px;
+        height: 10px;
+    }
+    #ful{
+        -webkit-text-fill-color: rgb(209, 152, 45);
+    }
+    #button1{
+        background-color: rgb(62, 142, 173);
+        height: 4px;
+        width: 10px;
+    }
+    #button2{
+        background-color: transparent;
+        width: 10px;
+        height: 4px;
+    }
+    #words{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #button3{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1%;
+    }
+    #power{
+        font-size:smaller;
+    }
+    #image{
+        width: 30px;
+        height: 30px;
+        border-radius: 20px;
+    }
+    #image1{
+        width: 40px;
+        height: 60px;
+    }
+    #page{
+        display: flex;
+        flex-wrap: ;
+        gap: 1%;
+    }
+    #im{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #ad{
+    font-size: smaller;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1%;
+    }
+    #van{
+        -webkit-text-fill-color: rgb(224, 165, 54);
+    }
+    #button4{
+        background-color: transparent;
+        -webkit-text-fill-color: rgb(55, 134, 165);
+        width: 10px;
+    }
+    #all{
+        background-color: aliceblue;
+    }
+    #ad{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1%;
+        text-align: center;
+        margin: 10px;
+    }
+    #badge{
+        width:10px;
+        height: 10px;
+    }
+    #tick{
+        -webkit-text-fill-color: rgb(212, 156, 50);
+    }
+    #ball{
+        width: 3px;
+        height: 3px;
+    }
+    #expert{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1%;
+        margin: 10px;
+    }
+    #button5{
+        background-color: rgb(57, 57, 170);
+        width: 15px;
+        height:5px;
+        font-size: smaller;
+        -webkit-text-fill-color: aliceblue;
+    }
+    #tag{
+        text-align: center;
+        margin: 10px;
+    }
+    #people{
+        width: 35px;
+        height: 70px;
+    }
+    #bold{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #flex{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #coll{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #syn{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #rem{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #less{
+    -webkit-text-fill-color: rgb(207, 154, 56);
+    }
+    #search{
+        -webkit-text-fill-color: rgb(61, 77, 77);
+    }
+    #explore{
+        background-color: rgb(216, 158, 49);
+        -webkit-text-fill-color: black;
+        width: 25px;
+        height: 5px;
+    }
+    #lap{
+        width: 100px;
+        height: 50px;
+    }
+    #seam{
+        width:160px;
+        height:80px;
+        background-color: rgb(45, 173, 173);
+    }
+    #less{
+        font-size: smaller;
+        text-align: center;
+    }
+    #high{
+        -webkit-text-fill-color: rgb(206, 149, 44);
+    }
+    #view{
+        height: 5px;
+        width: 25px;
+        font-size: smaller;
+        background-color: rgb(66, 66, 201);
+    }
+    #log{
+        display:flex ;
+        flex-wrap: wrap;
+        gap: 6%;
+    }
+    #button6{
+        width: 10px;
+        height:5px;
+        background-color: transparent;
+        border: blue;
+    }
+    #tion{
+        -webkit-text-fill-color: skyblue;
+    }
+    #gen{
+         -webkit-text-fill-color: rgb(211, 156, 55);
+    }
+    #form{
+          -webkit-text-fill-color: rgb(51, 92, 92);
+    }
+    #our{
+        width: 30px;
+        height: 30px;
+    }
+    #job{
+         width:20px;
+         height:5px;
+         background-color: skyblue;
+    }
+    #wan{
+        width: 120px;
+        height:50px;
+        display: flex;
+        flex-wrap: ;
+        margin: 10px;
+        background-color: rgb(21, 53, 53);
+        gap:1%;
+        border-radius: 5px;
+    }
+    #info{
+        display: flex;
+        flex-wrap: wrap;
+        gap:1%;
+        margin: 10px;
+        border-radius: 5px;
+    }
+    #ile{
+        width: 30px;
+        height: 30px;
+    }
+    #email{
+        font-size: xx-small;
+        -webkit-text-fill-color: aliceblue;
+        background-color: transparent;
+    }
+    #footer{
+        background-color: rgb(65, 173, 216);
+        width: 400px;
+        height:100px;
+        display: flex;
+        flex-wrap: wrap;
+        gap:1%;
+        margin: 10px;
+    }
+    #lady{
+        width: 30px;
+        height: 30px;
+    }
+    #body{
+        width: 600px;
+        background-color: aliceblue;
+        margin: 10px;
+    }
+
+}
